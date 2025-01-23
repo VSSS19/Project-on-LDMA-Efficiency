@@ -1,7 +1,7 @@
 # Project-on-LDMA-Efficiency
 <h4>Enhancing Near Field Communication (NFC ) using LDMA (Location Division Multiple Access)</h4>
 <br>
-<h6>Near Field Communication</h6>
+<h5>Near Field Communication</h5>
 Near Field Communication (NFC) has become an essential technology for short- range wireless communication, 
 particularly in applications such as contactless payments, data exchange, and access control. NFC operates 
 within a limited range of about 4 cm, allowing secure and quick communication between devices. 
@@ -9,19 +9,19 @@ Despite its widespread adoption, NFC faces efficiency challenges due to interfer
 Traditional methods like Frequency Division Multiple Access (FDMA) and Time Division Multiple Access (TDMA) 
 have been employed to mitigate these issues, but they often fall short in dynamic and dense environments.
 <br>
-<h6>Multiple Access Techniques</h6>
+<h5>Multiple Access Techniques</h5>
 Multiple access techniques are crucial in managing how multiple devices share the same communication medium. 
 FDMA and TDMA are widely used methods, each with its advantages and limitations. FDMA divides the frequency 
 spectrum into distinct channels, while TDMA allocates different time slots to different users. However, 
 both methods can experience efficiency issues in high-density environments.
 <br>
-<h6>Location Division Multiple Access (LDMA)</h6>
+<h5>Location Division Multiple Access (LDMA)</h5>
 LDMA leverages the spatial separation of devices to minimize interference and optimize channel access.
 This approach has shown promise in other wireless communication contexts but has not been extensively applied to NFC. 
 By assigning communication channels based on the physical location of devices, LDMA can potentially reduce 
 collision rates and enhance overall communication efficiency.
 <br>
-<h6>Beamforming</h6>
+<h5>Beamforming</h5>
 Beamforming is a signal processing technique used in wireless communication systems to improve efficiency and performance. 
 In the context of LDMA and NFC, beamforming plays a crucial role. In LDMA, beamforming is used to focus 
 transmit and receive antennas towards the desired user, increasing the signal-to-noise ratio and improving 
