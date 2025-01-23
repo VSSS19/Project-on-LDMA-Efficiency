@@ -36,11 +36,11 @@ enhancing the performance of these wireless technologies.
 <h4>Project Objective</h4>
 Our primary objective is to explore the potential of Location Division Multiple Access (LDMA) as a 
 solution to enhance the efficiency of Near Field Communication (NFC). The simulation was conducted using MATLAB software, 
-and the specific objectives are as follows:
-1.	To develop an LDMA-based approach for NFC communication.
-2.	To implement the proposed approach using MATLAB.
-3.	To evaluate the performance of LDMA in terms of data throughput, collision rates, and latency.
-4.	To compare the results with traditional multiple access methods (FDMA and TDMA).
+and the specific objectives are as follows:<br>
+1.	To develop an LDMA-based approach for NFC communication.<br>
+2.	To implement the proposed approach using MATLAB.<br>
+3.	To evaluate the performance of LDMA in terms of data throughput, collision rates, and latency.<br>
+4.	To compare the results with traditional multiple access methods (FDMA and TDMA).<br>
 
 
 
